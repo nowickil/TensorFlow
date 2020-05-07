@@ -57,5 +57,6 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 This material is constantly updated for you, so stay tuned! ... (e.g. this means that the rest of the chapters are currently be written :)
 
-Modified 5/7/2020 3:48 pm lln
+Modified 5/7/2020 
+lln
 
